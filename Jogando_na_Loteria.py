@@ -66,3 +66,4 @@ while Error == False:
                 break
             loteria(SelectedGame, NumberQuantity)
             break
+            
